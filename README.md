@@ -11,6 +11,7 @@
 | **Environment/Feedback** | Information about the current state.              | State Updates, Rewards, Errors                 | ReAct, ReST meets ReAct, Language Agent Tree Search |
 | **Memory**             | Storing past interactions and information.         | Context, History, Knowledge                    | All papers utilize some form of memory           |
 | **Agent Improvement**   | Learning and adapting over time.                   | Self-Improvement, Training Data, Reinforcement Learning | ReST meets ReAct                                |
+
 # # Analysis
 # AI Agent Architectures: Comparison and Overview
 
