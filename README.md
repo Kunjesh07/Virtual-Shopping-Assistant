@@ -1,7 +1,16 @@
 # Non-coding Component
 # # A. Conceptural Map
-![alt text](image.png)
 
+| Stage                   | Description                                         | Key Elements/Connections                        | Relevant Papers                                     |
+|-------------------------|-----------------------------------------------------|------------------------------------------------|--------------------------------------------------|
+| **Task Decomposition**  | Breaking down a complex task into smaller parts.   | Sub-tasks, Goals, Hierarchies                   | Language Agent Tree Search (implicit)             |
+| **Planning/Reasoning**  | Generating a plan or sequence of actions.          | Chain-of-Thought, Search, Memory, Context      | ReAct, ReST meets ReAct, Language Agent Tree Search |
+| **Tool Use**           | Interacting with external tools (APIs, etc.).      | Tool API, Tool Output, Parameters              | Toolformer, ReAct, Chain of Tools                 |
+| **Action Execution**    | Carrying out the chosen action (tool call, etc.).  | Tool Call, Environment Interaction             | All papers utilize action execution               |
+| **Tool Output/Observation** | Result from tool or environment interaction.   | Data, Feedback, Information                    | All papers rely on tool output/observations       |
+| **Environment/Feedback** | Information about the current state.              | State Updates, Rewards, Errors                 | ReAct, ReST meets ReAct, Language Agent Tree Search |
+| **Memory**             | Storing past interactions and information.         | Context, History, Knowledge                    | All papers utilize some form of memory           |
+| **Agent Improvement**   | Learning and adapting over time.                   | Self-Improvement, Training Data, Reinforcement Learning | ReST meets ReAct                                |
 # # Analysis
 # AI Agent Architectures: Comparison and Overview
 
