@@ -1,5 +1,5 @@
 # Non-coding Component
-# # A. Conceptural Map
+## A. Conceptural Map
 
 | Stage                   | Description                                         | Key Elements/Connections                        | Relevant Papers                                     |
 |-------------------------|-----------------------------------------------------|------------------------------------------------|--------------------------------------------------|
@@ -12,7 +12,7 @@
 | **Memory**             | Storing past interactions and information.         | Context, History, Knowledge                    | All papers utilize some form of memory           |
 | **Agent Improvement**   | Learning and adapting over time.                   | Self-Improvement, Training Data, Reinforcement Learning | ReST meets ReAct                                |
 
-# # Analysis
+## Analysis
 # AI Agent Architectures: Comparison and Overview
 
 ## 1. ReAct (Reasoning and Acting)
